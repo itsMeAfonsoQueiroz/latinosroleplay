@@ -1,0 +1,16 @@
+These coordinates are meant to be used in Mennyoo. Sadly, currently there isn't an easier way to spawn props in SP. 
+
+- Open the Mennyoo menu, and navigate to "Object Spooner" - "Spawn Entity Into World" - "Object" - "Search"
+- Type in " prop_idol_case_01 " (it is ideal to save the prop as your favorite so you don't have to search for it everytime)
+- Go back to the "Object Spooner" tab, select "Manage Entities" and then select the prop you spawned. 
+- Scroll to the bottom, and select "Attachment Options". 
+- Select "Attach to Something" and then "Self".
+- Set the settings and coordinates to the supplied ones below:
+
+Bone | Right Hand
+X | 0.3845
+Y | -0.0882
+Z | 0.0367
+Pitch | -119.1875
+Roll | 135.5933
+Yaw | -142.1609
