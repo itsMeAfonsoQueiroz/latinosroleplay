@@ -1,0 +1,21 @@
+Translates = {
+    ["start_mission"] = "Carrega em ~INPUT_PICKUP~ para iniciar uma missão",
+    ["enter_house"] = "Carrega em ~INPUT_PICKUP~ para entrar na casa",
+    ["leave_house"] = "Carrega em ~INPUT_PICKUP~ para sair da casa",
+    ["throw_trash"] = "Carrega em ~INPUT_PICKUP~ para deitar o lixo fora",
+    ["pickup_trash"] = "Carrega em ~INPUT_PICKUP~ para apanhar o lixo",
+    ["mop_floor"] = "Carrega em ~INPUT_PICKUP~ para passar a esfregona",
+    ["wipe"] = "Carrega em ~INPUT_PICKUP~ para limpar o pó",
+    ["sent_invite"] = "Enviaste um convite",
+    ["error_invite"] = "Ocorreu um erro ao enviar o convite",
+    ["minimum_member"] = "Precisas de pelo menos %s membros para iniciar esta missão",
+    ["error_creating_squad"] = "Ocorreu um erro ao criar a equipa",
+    ["mission_started"] = "A missão começou, vai até à casa.",
+    ["received_invite"] = "Recebeste um convite para uma equipa, ID do convite: %s. Para ver os teus convites, escreve /myinvites.",
+    ["cleared_house"] = "Limpaste a casa, sai da casa para terminar a missão.",
+    ["threw_out_trash"] = "Deitaste o lixo fora",
+    ["specify_id"] = "Tens de especificar um ID de convite",
+    ["error_accepting"] = "Ocorreu um erro ao aceitar o convite",
+    ["no_invites"] = "Não tens convites",
+}
+

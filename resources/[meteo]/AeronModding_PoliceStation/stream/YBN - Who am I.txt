@@ -1,0 +1,12 @@
+What is a YBN file?
+AeronModding answers you!
+
+A YBN file in GTA 5, also known as "YuMeYuMe's Collision File Format," is a crucial component for mapping and creating environments in the game. 
+It's a file type used to define the collisions and physical boundaries of objects and structures within the virtual world of Grand Theft Auto.
+This specific file, the YBN, contains geometric data that outlines the shapes and physical properties of objects, buildings, roads, and other elements within the game world. 
+It defines areas where characters can move, where vehicles can travel or stop, as well as areas that can be traversed or are restricted.
+In the context of mapping for a training center, using YBN files is essential to accurately model virtual spaces that represent the real environment. 
+By correctly defining collisions, dimensions, and boundaries, trainers can create realistic simulations for learning and training in various fields such as driving, safety, logistics, or other specific sectors.
+These YBN files are created using specific modeling and creation tools, then integrated into the game to enable an immersive and authentic experience. 
+By precisely adjusting object collisions and physical interactions, trainers can provide accurate and useful virtual environments for learning and practice.
+In summary, YBN files are a fundamental element for creating virtual environments in GTA 5, allowing trainers to design interactive and realistic spaces for effective and immersive training in various professional fields.

@@ -1,0 +1,43 @@
+Welcome to this tutorial for editing the editable textures in our creation.
+
+Prerequisites // Before you begin, make sure you have:
+
+- Access to the YTD file provided by AeronModding.
+- Image editing software compatible with texture formats.
+- The "OpenIV" software to edit and modify textures (https://openiv.com/)
+
+Getting Started // Steps to follow:
+
+Open the YTD file:
+Use the appropriate software to open the YTD file you received from the online store.
+
+Identify textures to edit:
+Explore the contents of the YTD file to locate the textures that our team has made editable. These textures may be identified by specific names or indications to recognize them more easily.
+
+Edit the textures:
+Once identified, you can now edit these textures. Use the editing tools in the software to adjust colors, details, or even completely replace the texture with a new image. 
+Ensure to respect copyrights and appropriate licenses.
+
+Save the changes:
+After making your modifications, save the new textures with the same name and format as the original textures to ensure compatibility with the YTD file.
+
+Reimport textures:
+Use the software to reimport the modified textures into the YTD file, replacing the old ones with the new ones. 
+Ensure that the name and format remain the same as the original to avoid compatibility issues.
+
+Test the modifications:
+Before finalizing, make sure to test the modified textures to verify that they are correctly integrated and appear as intended in the game environment.
+
+Usage // Additional Tips:
+
+Provided documentation:
+We provide documentation related to your mapping at the following address: documentation.aeronmodding.com. Refer to this for guidance in the process of editing textures.
+
+Format compatibility:
+Ensure that the new textures comply with formats and resolutions compatible with the YTD file to avoid any compatibility issues during integration.
+
+Need help?
+In case of difficulties or questions, do not hesitate to contact us either on our Discord or via email at the following address: contact@aeronmodding.com
+
+By following these steps, you'll be able to modify the textures in the YTD file to personalize your experience in the 3D mapping provided by AeronModding. 
+Make sure to follow the guidelines and save a copy of the original file before making any modifications.
